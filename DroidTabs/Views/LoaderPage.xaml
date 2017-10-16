@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DroidTabs.Views.LoaderPage">
+   <ContentPage.Content>
+        <StackLayout>
+        <Label Text="Loader Page" Font="Bold,Large" TextColor="Black"
+        VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"></Label>
+            <Button x:Name="TabButton" Text="Tab Page" BackgroundColor="Silver" TextColor="Black" Clicked="TabClicked" />      
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

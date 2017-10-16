@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3DA29D53-2FCD-40C3-94BC-CE1128E43C37}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.DroidTabs AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_6_API_25" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroidTabs/App.xaml.cs">
+    <Files>
+      <File FileName="DroidTabs/MainActivity.cs" Line="57" Column="13" />
+      <File FileName="DroidTabs/App.xaml.cs" Line="30" Column="13" />
+      <File FileName="DroidTabs/Views/LoaderPage.xaml.cs" Line="46" Column="15" />
+      <File FileName="DroidTabs/Views/ContentPage1.xaml" Line="3" Column="1" />
+      <File FileName="DroidTabs/Views/RoutingPage.xaml.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ken/Projects/DroidTabs/DroidTabs/App.xaml.cs" relfile="DroidTabs/App.xaml.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
